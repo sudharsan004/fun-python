@@ -1,0 +1,13 @@
+body {
+ background-image: url("trv.jpg");
+ background-size: cover;
+}
+.head{
+	color:white;
+	font-size: 50px;
+}
+.head1{
+	text-align: center;
+	color:white;
+	font-size: 50px;
+}
